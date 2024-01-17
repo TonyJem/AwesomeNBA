@@ -41,7 +41,7 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
 #### Disclaimers:
 
-  1. As agreed by the task description, curretn UI implementation is done as simple as it is. The main focus of this project was practical implementation of the work with REST API and navigation between different screens;
+  1. As agreed by the task description, current UI implementation is done as simple as it is. The main focus of this project was practical implementation of the work with REST API and navigation between different screens;
     
   2. There are no loading screens, empty state screens or network failure showing sceens etc - which is considered as UI/UX stuff which are concedered as out of scope for that project;
 
