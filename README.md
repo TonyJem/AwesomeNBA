@@ -41,13 +41,13 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
 #### Disclaimers:
 
-  1. As agreed by task description UI is simple as it is. The main focus of this project was practical implementation of work with REST API and navigation between different screens;
+  1. As agreed by the task description UI is simple as it is. The main focus of this project was practical implementation of work with REST API and navigation between different screens;
     
   2. There are no loading screens, empty state screens or network failure showing sceens;
 
   3. All possible Network Error handled as simple as posible, with simple prints into XCode console;
 
-  4. In accordance to Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project depending on it's needs it would concedered one common consistive aproach to work with Network requests;
+  4. In accordance to the Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project depending on it's needs it would concedered one common consistive aproach to work with Network requests;
    
   5. There are no Unit or UI tests included, due this project is not focusing on that. But here was used Dependency Ijection and no Singletons so app project's structure is basically ready for adding tests. It could be done easily on separate request.
 <br>
