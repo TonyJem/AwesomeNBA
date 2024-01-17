@@ -30,12 +30,12 @@ This Apps helps to User to retrieve NBA Teams list for the current season and na
 ## Implementation: 
 
 0. The __App Icon__ and __App Title__:
-
-<img src="ScreenShots/01_LaunchApp.gif" width="33%"> 
+1. 
+<img src="ScreenShots/00_AppIcon.png" width="33%"> 
 
 2. The __Launchig App__ descriptionBelow:
 
-<img src="ScreenShots/00_AppIcon.png" width="33%"> 
+<img src="ScreenShots/01_LaunchApp.gif" width="33%">  
 
 Lorem Ipsum.
 
@@ -54,7 +54,7 @@ Lorem Ipsum.
 
 3. The __Players Screen__ 3descriptionBelow:
   
-<img src="ScreenShots/02_TeamsScreen.png" width="33%">   
+<img src="ScreenShots/03_PlayersScreen.png" width="33%">   
 
 Lorem Ipsum.
 
@@ -63,7 +63,7 @@ Lorem Ipsum.
 
 4. The __Games Screen__ 3descriptionBelow:
   
-<img src="ScreenShots/02_TeamsScreen.png" width="33%"> 
+<img src="ScreenShots/04_GamesScreen.png" width="33%"> 
 
 Lorem Ipsum.
 <br>
@@ -73,12 +73,12 @@ Lorem Ipsum.
 
 1. Feature 1 demonstration:
 
-<img src="ScreenShots/02_TeamsScreen.png" width="33%">   
+<img src="ScreenShots/05_Navigation.gif" width="33%">   
    
 2. Feature 2 demonstration:
 
-<img src="ScreenShots/02_TeamsScreen.png" width="33%">
+<img src="ScreenShots/06_SortTeamsFeature.gif" width="33%">
 
 3. Feature 3 demonstration:
 
-<img src="ScreenShots/02_TeamsScreen.png" width="33%">
+<img src="ScreenShots/07_SearchForPlayerFeaturen.gif" width="33%">
