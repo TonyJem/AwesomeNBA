@@ -28,16 +28,20 @@ This Apps helps to User to retrieve NBA Teams list for the current season and na
 <br>
   
 ## Implementation: 
-The App currently consists of two Tab, which has 4 posible states. Below are presented all of them:
 
-1. The __Launchig App__ descriptionBelow:
+0. The __App Icon__ and __App Title__:
 
 <img src="ScreenShots/01_LaunchApp.gif" width="33%"> 
+
+2. The __Launchig App__ descriptionBelow:
+
+<img src="ScreenShots/00_AppIcon.png" width="33%"> 
 
 Lorem Ipsum.
 
 <br>
 <br>
+The App currently consists of two Tabs and 4 Screens in total. Below are presented all of them:
 
 2. The __Teams Screen__ 2descriptionBelow:
   
@@ -57,7 +61,7 @@ Lorem Ipsum.
 <br>
 <br>
 
-4. The __Games state__ 3descriptionBelow:
+4. The __Games Screen__ 3descriptionBelow:
   
 <img src="ScreenShots/02_TeamsScreen.png" width="33%"> 
 
