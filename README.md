@@ -55,8 +55,8 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
   
 ## Implementation: 
 
-0. The __App Icon__ and __App Title__:
-1. 
+1. The __App Icon__ and __App Title__:
+ 
 <img src="ScreenShots/00_AppIcon.png" width="33%"> 
 <br>
 
@@ -68,7 +68,7 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
 The App currently consists of two Tabs and 4 Screens in total. Below are presented all of them:
 
-2. The __Teams Screen__ shows available Teams:
+3. The __Teams Screen__ shows available Teams:
   
 <img src="ScreenShots/02_TeamsScreen.png" width="33%">  
 
@@ -77,7 +77,7 @@ List the data with Teams from current season. There few teams with missing City 
 <br>
 <br>
 
-3. The __Players Screen__ Shows all available Players:
+4. The __Players Screen__ Shows all available Players:
   
 <img src="ScreenShots/03_PlayersScreen.png" width="33%">   
 
@@ -86,7 +86,7 @@ Is implemented as a list with endless scroll.
 <br>
 <br>
 
-4. The __Games Screen__ Shows all available Games for selected Team:
+5. The __Games Screen__ Shows all available Games for selected Team:
   
 <img src="ScreenShots/04_GamesScreen.png" width="33%"> 
 
