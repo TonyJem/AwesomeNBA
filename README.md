@@ -32,15 +32,14 @@ This Apps helps to User to retrieve NBA Teams list for the current season and na
 0. The __App Icon__ and __App Title__:
 1. 
 <img src="ScreenShots/00_AppIcon.png" width="33%"> 
+<br>
 
-2. The __Launchig App__ descriptionBelow:
+2. The __Launchig App__ - previews loading screen before initializing the App:
 
 <img src="ScreenShots/01_LaunchApp.gif" width="33%">  
-
-Lorem Ipsum.
-
 <br>
 <br>
+
 The App currently consists of two Tabs and 4 Screens in total. Below are presented all of them:
 
 2. The __Teams Screen__ 2descriptionBelow:
@@ -81,4 +80,4 @@ Lorem Ipsum.
 
 3. Feature 3 demonstration:
 
-<img src="ScreenShots/07_SearchForPlayerFeaturen.gif" width="33%">
+<img src="ScreenShots/07_SearchForPlayerFeature.gif" width="33%">
