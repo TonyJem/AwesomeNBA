@@ -24,7 +24,7 @@ Main Keywords describing used technologies:
 ## Description:
 This App shows to User a lists of Data fetched from test API and helps to the User to retrieve Teams list for the current NBA season, navigate accross them, search Player from list and see game scores for choosen Player's team or selected from the list Team. User also can sort Teams in the list by using provided Sorting options by pressing Sort button in the navigation bar.
 
-Screen structure consist of two tabs (used `TabBar`), two pushable views and a sheet. For navigation it was used `NavigationView` an `NavigationLink`.
+Screen structure consist of two tabs (used `TabBar`), two pushable views and a sheet. For navigation it was used `NavigationView` and `NavigationLink`.
 
 #### This app handles the following actions:
 
