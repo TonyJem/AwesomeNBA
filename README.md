@@ -3,7 +3,15 @@
 Simple iOS App, done as a test task project for learning purposes in 2024 January.
 
 Few keywords describing used tehnologies:
-iOS-15; SwiftUI; MVVM; Alamofire; JSON; URLSession; Sync await; TabBar; NavigationView; 
+ - iOS-15
+ - SwiftUI
+ - MVVM
+ - Alamofire
+ - JSON
+ - URLSession
+ - Sync await
+ - TabBar
+ - NavigationView
 
 [Description](#description)
 
