@@ -26,7 +26,7 @@ This App shows to User a lists of Data fetched from test API and helps to the Us
 
 Screen structure consist of two tabs (used `TabBar`), two pushable views and a sheet. For navigation it was used `NavigationView` and `NavigationLink`.
 
-#### This app handles the following actions:
+#### This app handles these following actions:
 
   1. Display the lists of Teams, Players, Games containing data, when it were successfully retrieved from API;
 
