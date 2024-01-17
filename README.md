@@ -43,11 +43,11 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
   1. As agreed by the task description, current UI implementation is done as simple as it is. The main focus of this project was practical implementation of the work with REST API and navigation between different screens;
     
-  2. There are no loading screens, empty state screens or network failure showing sceens etc - which is considered as UI/UX stuff which are concedered as out of scope for that project;
+  2. There are no loading screens, empty state screens or network failure showing sceens etc - which is considered as UI/UX stuff which is out of scope for that project;
 
   3. All possible Network Errors are handled as simple as posible, with simple prints into the XCode's console;
 
-  4. In accordance to the Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project, depending on it's needs, it would concedered one common consistive aproach to work with Network requests;
+  4. In accordance to the Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project, depending on it's needs, it would considered one common consistive aproach to work with Network requests;
    
   5. There are no Unit or UI tests included, due this project is not focusing on that. But here was used Dependency Injection to add all neceessary services and were avoided using of Singletons, so app project's architecture is basically ready for adding tests. It could be done easily on separate request or next iteration for improvements.
 <br>
@@ -72,7 +72,7 @@ The App currently consists of two Tabs and 4 Screens in total. Below are present
   
 <img src="ScreenShots/02_TeamsScreen.png" width="33%">  
 
-List the data with Teams from current season. There few teams with missing City or Conference properties, but it does not destrub to sort and view all teams. API call logic conciders pagination, so all available teams from all existing pages will be retrivied and shown. Here is considered that it is agreement with Back End, that amount of pages will not be huge, so it is allowed to fetch all data per time.
+List the data with Teams from current season. There few teams with missing City or Conference properties, but it does not destrub to sort and view all teams. API call logic considers pagination, so all available teams from all existing pages will be retrivied and shown. Here is considered that it is agreement with Back End, that amount of pages will not be huge, so it is allowed to fetch all data per time.
 
 <br>
 <br>
