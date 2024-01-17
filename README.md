@@ -1,7 +1,7 @@
 # AwesomeNBA
 <img src="ScreenShots/logo.jpeg" width="10%"> 
 Simple iOS App, done as a test task project for learning purposes in 2024 January.
-
+<br>
 Few keywords describing used tehnologies:
  - iOS-15
  - SwiftUI
