@@ -34,7 +34,7 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
   3. It is possible to search a Player by his name or surname in the provided native Search field;
 
-  5. Sorting of Team is availbale by presing on sort button. Currently have been implemented 3 sort option:
+  5. Sorting of Team is availbale by pressing on sort button. Currently have been implemented 3 sort option:
        - Sorting by Name
        - Sorting by City
        - Sorting by Conference
@@ -47,7 +47,7 @@ Screen structure consist of two tabs (used `TabBar`), two pushable views and a s
 
   3. All possible Network Error handled as simple as posible, with simple prints into XCode console;
 
-  4. In accordance to Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project depending on it's need it would concedered one common consistive aproach to work with Network requests;
+  4. In accordance to Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and for real project depending on it's needs it would concedered one common consistive aproach to work with Network requests;
    
   5. There are no Unit or UI tests included, due this project is not focusing on that. But here was used Dependency Ijection and no Singletons so app project's structure is basically ready for adding tests. It could be done easily on separate request.
 <br>
