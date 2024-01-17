@@ -2,6 +2,9 @@
 <img src="ScreenShots/logo.jpeg" width="10%"> 
 Simple iOS App, done as a test task project for learning purposes in 2024 January.
 
+Few keywords describing used tehnologies:
+iOS-15; SwiftUI; MVVM; Alamofire; JSON; URLSession; Sync await; TabBar; NavigationView; 
+
 [Description](#description)
 
 [Implementation](#implementation)
@@ -9,21 +12,32 @@ Simple iOS App, done as a test task project for learning purposes in 2024 Januar
 [Demonstration](#demonstration)
 
 ## Description:
-This App shows to User a list of Data fetched from test API, which inlcudes Network requests and responds.
+This App shows to User a lists of Data fetched from test API and helps to User to retrieve Teams list for the current NBA season, navigate accross them, search Player from list and see game scores for choosen Player's team or selected from the list Team. User also can sort Teams in the list by using provided Sorting options by pressing Sort button in the navigation bar.
 
-This Apps helps to User to retrieve NBA Teams list for the current season and navigate accross them. User can view and sort Teams in the list by using provided Sorting options by pressin Sort button in navigation bar. Each screen is done as simple tables with displayed information.
+Scfreen structure consist of two tabs (used TabBar), two pushable views and a sheet. For navigation it was used NavigationView an NavigationLink.
 
 #### This app handles the following actions:
 
-  1. Display the lists of Teams and Players, containing data, when it were successfully retrieved from API.
+  1. Display the lists of Teams, Players, Games containing data, when it were successfully retrieved from API;
 
-  2. It is possible to refresh data on each list on native refresh by swiping list down.
-  
-  3. It is possible to search a Player by his name or surname in implemented native Search field.
-  
-  4. As agreed UI is simple as it is and focus of this task was not to create the impresive one.
+  2. It is possible to refresh data on each list on native iOS refresh action by swiping list down;
 
-  5. In accordance to Task descripton there is added Alamofire via Swift Package Manager.
+  3. It is possible to search a Player by his name or surname in the provided native Search field;
+
+  5. Sorting of Team is availbale by presing on sort button. Currently have been implemented 3 sort option:
+       - Sorting by Name
+       - Sorting by City
+       - Sorting by Conference
+
+#### Disclaimers:
+
+  1. As agreed by task description UI is simple as it is and focus of this task was not to create the impresive one. There no loading screens, empty state screens or failure;
+
+  2. All possible NetworksError handled as simple as posible, with simple prints into XCode console;
+
+  3. In accordance to Task descripton there is added Alamofire via Swift Package Manager. It is included only for demonstrational reasons and or real project it would;
+  4. 
+  5. There no Unit or UI tests included, due this project focus was not. But here was used Dependency Ijection and app project's structure is basically ready for adding tests. And it could be done easily on separate request.
 <br>
 <br>
   
